@@ -1,0 +1,3 @@
+[submodule "linux-pero"]
+	path = linux-pero
+	url = git@github.com:testxx2015/linux-pero.git
